@@ -1,7 +1,6 @@
 <?php
 /**
  * 用户权限控制插件
- * @author	zhangdongdong@w01f.net
  * @since	2014/11/12
  */
 class UserInitPlugin extends Yaf_Plugin_Abstract {
